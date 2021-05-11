@@ -29,7 +29,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in second year  at SVK
 </p>
 --->
 
-<a href="https://sourcerer.io/rahulagale">Check more about me here 🌟 </a>
+### Check more about me here 🌟 </a>
 
 <p align="center">
 <!---
