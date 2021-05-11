@@ -18,9 +18,9 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in second year  at SVK
 
 ### Some Stats About Rahul (Public Only)
 <p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
+<img alt="Rahul's github stats" src="https://github-readme-stats.vercel.app/api?username=rahulagale&show_icons=true&theme=merko"  > </p>
 
-<a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
+<a href="https://sourcerer.io/rahulagale">Check more about me here 🌟 </a>
 
 <p align="center">
 <!---
