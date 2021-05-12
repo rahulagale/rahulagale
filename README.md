@@ -27,7 +27,6 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in second year  at SVK
 	<img title="Kotlin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />
 	<img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 </p>
---->
 
 ### Check more about me here 🌟 </a>
 
