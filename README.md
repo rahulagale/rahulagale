@@ -32,8 +32,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in second year  at SVK
 ### Check more about me here 🌟 </a>
 
 <p align="center">
-<!---
-<a href="https://twitter.com/rahulagale18" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;--->
+<a href="https://www.linkedin.com/in/rahul-agale-9894a91b6/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="rahulagale" height="25" width="25" /></a>&nbsp;&nbsp;--->
 <a href="https://twitter.com/rahulagale18" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@rahulagale18" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/mr.rahul_agale" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.rahul_agale" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
