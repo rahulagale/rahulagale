@@ -20,12 +20,6 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in second year  at SVK
 <p align="center" >
 <img alt="Rahul's github stats" src="https://github-readme-stats.vercel.app/api?username=rahulagale&show_icons=true&theme=light"  > </p>
 
-### My skills include
-
-<p align="left">
-	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="Kotlin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />
-</p>
 
 ### Check more about me here 🌟 </a>
 
