@@ -7,7 +7,7 @@
 I'm an IT Student  👨‍💻, Currently in second year  at SVKM's Institute of Technology,Dhule
  👨‍🎓
 
-- 🔭 I’m currently working on taking rest  
+- 🔭 I’m currently working on Android application development 
 - 🌱 I’m currently learning about Kotlin, Data Structures  
 - 👯 I’m looking to collaborate on Kotlin projects and Basic Web Dev stuff
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
