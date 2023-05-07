@@ -29,8 +29,5 @@ I'm an IT Student  👨‍💻, Currently in second year  at SVKM's Institute of
 <a href="https://instagram.com/mr.rahul_agale" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.rahul_agale" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 
-## Snake eating my contributions graph 🐍 
-![snake gif](https://github.com/rahulagale/rahulagale/blob/output/github-contribution-grid-snake.gif)
-
 
 ⭐️ From [rahulagale](https://github.com/rahulagale)
