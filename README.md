@@ -4,7 +4,7 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Rahul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulagale" alt="rahulagale" /> </p>
 
-I'm an IT Student  👨‍💻, Currently in second year  at SVKM's Institute of Technology,Dhule
+I'm an IT Student  👨‍💻, Currently in last year at SVKM's Institute of Technology,Dhule
  👨‍🎓
 
 - 🔭 I’m currently working on Android application development 
