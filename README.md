@@ -20,6 +20,7 @@ I'm an IT Student  👨‍💻, Currently in second year  at SVKM's Institute of
 <p align="center" >
 <img alt="Rahul's github stats" src="https://github-readme-stats.vercel.app/api?username=rahulagale&show_icons=true&theme=light"  > </p>
 
+![snake gif](https://github.com/rahulagale/rahulagale/blob/output/github-contribution-grid-snake.gif)
 
 ### Check more about me here 🌟 </a>
 
