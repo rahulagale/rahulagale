@@ -20,7 +20,7 @@ I'm an IT Student  👨‍💻, Currently in last year at SVKM's Institute of Te
 
 ### Some Stats About Rahul (Public Only)
 <p align="center" >
-<img alt="Rahul's github stats" src="https://github-readme-stats.vercel.app/api?username=rahulagale&show_icons=true&theme=light"  > </p>
+<img alt="Rahul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rahulagale&show_icons=true&theme=light"  > </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulagale&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4)
@@ -33,7 +33,7 @@ I'm an IT Student  👨‍💻, Currently in last year at SVKM's Institute of Te
 <p align="center">
 <a href="https://www.linkedin.com/in/rahul-agale-9894a91b6/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="rahulagale" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/rahulagale18" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@rahulagale18" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/mr.rahul_agale" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.rahul_agale" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/rahulagale_07/?next=%2F" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.rahul_agale" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 
 
